@@ -27,7 +27,7 @@ function ret = adv_floatput(prompt, min, max)
     if (tmp >= min && tmp <= max)
       num = tmp;
     else
-      printf("Error: input must be a number greater than or equal to %.2f and less than or equal to %.2f\n", ...
+      fprintf("Error: input must be a number greater than or equal to %.2f and less than or equal to %.2f\n", ...
         min, max);
     end
   end
