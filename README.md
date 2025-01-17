@@ -1,5 +1,5 @@
 # Chord
-Because I got tired of writing Octave files. Seriously, why does this language suck so much? Why hasn't there been something like Typescript, even? WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY?
+Because I got tired of writing Octave files. Seriously, why does this language so terrible? Why hasn't there been something like Typescript-for-MATLAB, even?
 
 ### Licensing
 Chord is copyrighted by ah-OOG-ah, 2025, and distributed under the LGPLv3 or any later version. License headers must be applied to
