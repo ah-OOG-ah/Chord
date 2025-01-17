@@ -37,8 +37,8 @@ function ret = adv_floatput(prompt, min, max)
              " and less than or equal to ", ...
              num2str(max) ...
            ));
-    endif
-  endwhile
+    end
+  end
 
   ret = num;
-endfunction
+end
