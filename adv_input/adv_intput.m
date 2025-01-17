@@ -29,7 +29,7 @@ function ret = adv_intput(prompt, min, max)
     else
       fprintf("Error: input must be an integer greater than or equal to %i and less than or equal to %i", ...
          num2str(min), ...
-         num2str(max)));
+         num2str(max));
     end
   end
 
